@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Kunal 👋
 
-<!--
-**kunalkamble27/kunalkamble27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst from Pune, currently in TYBCA at SPPU.
 
-Here are some ideas to get you started:
+## What I work with
+- **Excel:** data cleaning, pivot tables, dashboards
+- **SQL:** joins, aggregations, analysis queries
+- **Python:** pandas, NumPy, Matplotlib, Seaborn
+- **Power BI:** reports and dashboards (learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+- Building data analysis projects with real datasets
+- Freelancing on Fiverr (data cleaning and Excel)
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/kunalkamble27)
